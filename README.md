@@ -7,12 +7,12 @@ users  -: employees details<br>
 persons -: for login (username/password)
 <br><br>
 <b>url - http://localhost/YourFolderName/index.php/Welcome/index</b> <br>
-Please change base url as http://localhost/YourFolderName/
-There are two controllers<br>
+Please change base url as http://localhost/YourFolderName/ <br><br>
+#### Controllers<br>
 Welcome - For user login / logout<br>
 User - dashboard ,CRUD<br>
 
-There are two models <br>
+#### Models <br>
 login_model<br>
 User-model<br>
 
