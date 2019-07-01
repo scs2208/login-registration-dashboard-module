@@ -6,7 +6,8 @@ database name -: phone. There are two tables,<br>
 users  -: employees details<br>
 persons -: for login (username/password)
 <br><br>
-<b>url - http://localhost/rad_ci_assing2/index.php/Welcome/index</b> <br>
+<b>url - http://localhost/YourFolderName/index.php/Welcome/index</b> <br>
+Please change base url as http://localhost/YourFolderName/
 There are two controllers<br>
 Welcome - For user login / logout<br>
 User - dashboard ,CRUD<br>
