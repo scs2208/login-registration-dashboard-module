@@ -1,4 +1,4 @@
-# login-registration-module
+# login-registration-module with dashboard
 This respo contains the login,home,registration,dashboard and etc
 
 
